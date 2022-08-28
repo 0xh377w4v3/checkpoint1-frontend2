@@ -22,7 +22,7 @@ window.onload = function(){
         <div class="card-body">
           <h5 class="card-title">${nomeDaBanda}</h5>
           <p class="card-text">${descricaoDaBanda}</p>
-            <a href="./view/detalhes.html" class="btn-abrir btn-abrir-banda" target="_blank">Abrir</a>
+          <a href="./view/detalhes.html" class="btn-abrir btn-abrir-banda" target="_blank">Abrir</a>
         </div>
       </div>  
     `
