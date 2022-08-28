@@ -281,6 +281,101 @@ footer div.cardAluno {
   border-radius: 12px;
   margin-bottom: 20px;
 }
+/* TESTE */
+.btn-adicionar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 50px;
+  text-decoration: none;
+  color: #f4f4f4;
+  border-color: var(--colorBtnCard);
+  box-shadow: 0px 0px 21px 0px rgba(51, 187, 105, 0.82);
+  font-weight: bold;
+  font-size: 1.5rem;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  transition: 1s;
+  transform: scale(1.05);
+  animation: glow2 1.9s ease-in infinite;
+}
+
+@keyframes glow2 {
+  0% {
+    background-color: #33bb6913;
+  }
+  10% {
+    background-color: #33bb6921;
+  }
+  20% {
+    background-color: #33bb6933;
+  }
+  30% {
+    background-color: #33bb6947;
+  }
+  40% {
+    background-color: #33bb6958;
+  }
+  50% {
+    background-color: #33bb697c;
+  }
+  60% {
+    background-color: #33bb69a5;
+  }
+  70% {
+    background-color: #33bb69e1;
+  }
+  80% {
+    background-color: #33bb69ea;
+  }
+  90% {
+    background-color: #33bb69f3;
+  }
+}
+.btn-adicionar:hover {
+  color: #00000062;
+  background-color: rgba(255, 0, 76, 0.82);
+  box-shadow: 0px 0px 21px 0px rgba(255, 0, 76, 0.82);
+  border-color: rgba(255, 0, 76, 0.82);
+  transition: 1s;
+  transform: scale(1.05);
+  animation: glow3 1.9s ease-in infinite;
+}
+@keyframes glow3 {
+  0% {
+    background-color: #e51b3d1f;
+  }
+  10% {
+    background-color: #e51b3d40;
+  }
+  20% {
+    background-color: #e51b3d50;
+  }
+  30% {
+    background-color: #e51b3d67;
+  }
+  40% {
+    background-color: #e51b3d81;
+  }
+  50% {
+    background-color: #e51b3d99;
+  }
+  60% {
+    background-color: #e51b3db0;
+  }
+  70% {
+    background-color: #e51b3dd1;
+  }
+  80% {
+    background-color: #e51b3de8;
+  }
+  90% {
+    background-color: #e51b3e;
+  }
+}
+/*TESTE */
 
 .botoes{
   display: flex;
