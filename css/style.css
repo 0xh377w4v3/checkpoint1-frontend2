@@ -182,10 +182,10 @@ section.itens {
   margin-top: 50px;
 }
 
-.btn-abrir-banda {
+/* .btn-abrir-banda {
   color: #afafaf;
   animation: glow 1.8s ease-in infinite;
-}
+*/ }
 
 @keyframes glow {
   0% {
