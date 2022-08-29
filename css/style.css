@@ -588,6 +588,7 @@ p a:hover {
   .card-text {
     font-size: 1.4rem;
     height: 260px;
+    overflow-wrap: anywhere;
   }
 
   .cardAluno1 {
@@ -669,6 +670,7 @@ p a:hover {
   .card-text {
     font-size: 1.4rem;
     height: 260px;
+    overflow-wrap: anywhere;
   }
 
   .cardAluno1 {
