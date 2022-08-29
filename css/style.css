@@ -162,7 +162,7 @@ section.itens {
   font-size: 1.4rem;
   text-align: justify;
   height: 175px;
-  /* width: 420px; */
+  overflow-wrap: anywhere;
 }
 
 .btn-abrir {
