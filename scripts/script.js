@@ -6,7 +6,6 @@ window.onload = function(){
   BOTAO_ENVIAR.addEventListener('click', event => {
     event.preventDefault()
     
-
     //pegar dados do formulario
     let nomeDaBanda = document.getElementById('exampleInputText1').value
     let descricaoDaBanda = document.getElementById('exampleInputText2').value
