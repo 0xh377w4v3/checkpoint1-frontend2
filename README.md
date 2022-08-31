@@ -1,4 +1,4 @@
-# Frontend 2 - Checkpoint 2
+# Frontend 2 - Checkpoint 1
 
 1. Na imagem abaixo podemos ver marcado o botão “adicionar banda” ao clicarmos entra em ação um modal 
     
